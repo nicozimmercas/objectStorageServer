@@ -1,0 +1,14 @@
+{
+  "name": "objectstorageserver",
+  "version": "1.0.0",
+  "description": "Web server to cache json objects",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Nico Zimmer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
